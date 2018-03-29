@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://blog.zoejane.net/duw-hugo/sitemap.xml

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jane - A super concise theme for Hugo</title>
+    <link>http://blog.zoejane.net/duw-hugo/categories/</link>
+    <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://blog.zoejane.net/duw-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://blog.zoejane.net/duw-hugo/categories/development/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.zoejane.net/duw-hugo/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>http://blog.zoejane.net/duw-hugo/categories/english/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>http://blog.zoejane.net/duw-hugo/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://blog.zoejane.net/duw-hugo/categories/golang/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.zoejane.net/duw-hugo/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>http://blog.zoejane.net/duw-hugo/categories/index/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.zoejane.net/duw-hugo/categories/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://blog.zoejane.net/duw-hugo/categories/shortcodes/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.zoejane.net/duw-hugo/categories/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>http://blog.zoejane.net/duw-hugo/categories/syntax-highlighting/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.zoejane.net/duw-hugo/categories/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://blog.zoejane.net/duw-hugo/categories/test/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>http://blog.zoejane.net/duw-hugo/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
