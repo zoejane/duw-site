@@ -4,10 +4,6 @@
     <span class="item-title">{{ i18n "author" }}</span>
     <span class="item-content">{{ if .Params.author }}{{ .Params.author | safeHTML }}{{ else }}{{ .Site.Author.name | safeHTML }}{{ end }}</span>
   </p>
-  <p class="copyright-item">
-    <span class="item-title">{{ i18n "lastMod" }}</span>
-    <span class="item-content">{{ .Lastmod.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}</span>
-  </p>
   {{ if $.Site.Params.linkToMarkDown -}}
     {{ with $.OutputFormats.Get "markdown" -}}
     <p class="copyright-item">
