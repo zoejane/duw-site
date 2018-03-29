@@ -9,16 +9,33 @@ weight: 50
 comment: false
 mathjax: false
 ---
+# 自怼圈
 
-Hugo is a static site engine written in Go.
+**人在当下,心逈未来:**
+
+- for Reader ~ 为读书人分享经验
+- by Learnner ~ 由终身学习者构成
+- be Writer ~ 对持续输出提供帮助
+- as Coder ~ 如程序猿般思考/运营整个项目
+
+## 怂坑设计
+
+作为坑设计师, `大妈` 坚持设计不容易嗯哼出来的好坑:
 
 
-It makes use of a variety of open source projects including:
+	挖坑不埋真君子
+	授人以渔不予鱼
+    嗟来之食无营养
+    种子自粪成珍馐
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+    大家同一天空下
+    我知我感即同你
+    先尝回答为什么
+    再来印证是也乎
+    ╮(╯▽╰)╭
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
+## 资源
+
+- [仓库](https://github.com/DebugUself)
+- [邮件列表](debuguself@googlegroups.com)
